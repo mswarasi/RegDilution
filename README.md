@@ -5,7 +5,7 @@ Dilution.Obs.MPT.R – main R program to fit regression models with initial pool
 
 Dilution.EM.Dorfman.R – main R program to fit regression models with Dorfman two-stage pooling data.
 
-Note: There are 12 compiled FORTRAN subroutines and sources codes that work under the main R programs.
+Note: There are 12 compiled FORTRAN subroutines and sources codes that work under the main R programs as a means of improving computing efficiency. Documentation and user instructions are provided within the R programs.
  
 Reference:
 
