@@ -21,7 +21,9 @@ setwd(dir = "C:\\programs")
 
 ## Import source files
 source("SupportPrograms.txt")
+
 source("MultistageHierarchicalData.txt")
+
 source("TwoStageArrayData.txt")
 
 # Specify the regression link function g(.). This program works with any g, not limited to the logit link we used in the paper.
